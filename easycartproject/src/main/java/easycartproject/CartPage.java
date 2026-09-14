@@ -44,34 +44,4 @@ public class CartPage {
 
 	}
 
-
-
-
-
-
-
-
-
-	// public void updateQuantity(String value) {
-
-	// driver.findElement(quantity)
-	//.clear();
-
-	// driver.findElement(quantity)
-	//.sendKeys(value);
-	// }
-
-	// public void updateCart() {
-
-	// driver.findElement(update)
-	//.click();
-	//}
-
-
-
-
-
-
-
-
 }
