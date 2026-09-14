@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-14T21:30:05 IST" name="Suite" finished-at="2026-09-14T21:30:24 IST" duration-ms="18936">
+    <groups>
+    </groups>
+    <test started-at="2026-09-14T21:30:05 IST" name="Test" finished-at="2026-09-14T21:30:24 IST" duration-ms="18936">
+      <class name="easycartproject.ProductTest">
+        <test-method signature="addProductToCart()[pri:0, instance:easycartproject.ProductTest@77c2494c]" started-at="2026-09-14T21:30:12 IST" name="addProductToCart" finished-at="2026-09-14T21:30:16 IST" duration-ms="3635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+      </class> <!-- easycartproject.ProductTest -->
+      <class name="easycartproject.RegistrationTest">
+        <test-method signature="registrationTest()[pri:0, instance:easycartproject.RegistrationTest@3eb25e1a]" started-at="2026-09-14T21:30:05 IST" name="registrationTest" finished-at="2026-09-14T21:30:08 IST" duration-ms="2417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationTest -->
+      </class> <!-- easycartproject.RegistrationTest -->
+      <class name="easycartproject.LoginTest">
+        <test-method signature="validLoginTest()[pri:0, instance:easycartproject.LoginTest@477b4cdf]" started-at="2026-09-14T21:30:08 IST" name="validLoginTest" finished-at="2026-09-14T21:30:12 IST" duration-ms="4337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+      </class> <!-- easycartproject.LoginTest -->
+      <class name="easycartproject.CheckoutTest">
+        <test-method signature="checkoutTest()[pri:0, instance:easycartproject.CheckoutTest@233795b6]" started-at="2026-09-14T21:30:19 IST" name="checkoutTest" finished-at="2026-09-14T21:30:24 IST" duration-ms="5506" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutTest -->
+      </class> <!-- easycartproject.CheckoutTest -->
+      <class name="easycartproject.BaseClass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:easycartproject.BaseClass@6150c3ec]" started-at="2026-09-14T21:30:01 IST" name="setup" finished-at="2026-09-14T21:30:05 IST" duration-ms="4560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:easycartproject.BaseClass@6150c3ec]" started-at="2026-09-14T21:30:24 IST" name="tearDown" finished-at="2026-09-14T21:30:25 IST" duration-ms="317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- easycartproject.BaseClass -->
+      <class name="easycartproject.CartTest">
+        <test-method signature="cartTest()[pri:0, instance:easycartproject.CartTest@f5958c9]" started-at="2026-09-14T21:30:16 IST" name="cartTest" finished-at="2026-09-14T21:30:19 IST" duration-ms="2936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartTest -->
+      </class> <!-- easycartproject.CartTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
